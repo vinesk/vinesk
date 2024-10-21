@@ -27,7 +27,7 @@ Built full-stack applications, working with React, Node.js, and MongoDB. Gained 
 *January 2021 – March 2024*  
 Led the internal risk assessment of the HPC EPR project, collaborating with multidisciplinary teams, training new colleagues, and ensuring regulatory compliance.
 
-For more details, check out my full [CV](https://github.com/vinesk).
+For more details, check out my full [CV](https://github.com/vinesk/vinesk/blob/main/cv-vincent-eskenazi.pdf?raw=true).
 
 ---
 
