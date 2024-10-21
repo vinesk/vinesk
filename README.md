@@ -1,4 +1,4 @@
-# 👋 Hello, I'm Vincent Eskenazi
+# 👋 Hello, I'm Vincent
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-vinesk-blue?style=flat-square&logo=linkedin)](https://linkedin.com/in/vinesk)
 [![Portfolio](https://img.shields.io/badge/Portfolio-vinesk-blue?style=flat-square&logo=vercel)](https://vinesk.vercel.app/)
