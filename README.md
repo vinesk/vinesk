@@ -2,7 +2,6 @@
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-vinesk-blue?style=flat-square&logo=linkedin)](https://linkedin.com/in/vinesk)
 [![Portfolio](https://img.shields.io/badge/Portfolio-vinesk-blue?style=flat-square&logo=vercel)](https://vinesk.vercel.app/)
-[![GitHub](https://img.shields.io/github/followers/vinesk?label=Follow&style=social)](https://github.com/vinesk)
 
 I'm a **Full Stack JavaScript Developer** based in Paris, France. After 10 years in the nuclear engineering field, I pivoted towards web development with a passion for problem-solving and building high-performance applications.
 
